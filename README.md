@@ -1,8 +1,8 @@
 # fundamentals-nodejs-challenge-gostack
 
 ### This is a challenge where we are applying concepts and practices of uploading and managing files using GoStack bootcamp guide ⚛︎
-  ## I've applied things like typescript, SOLID patterns, Don't Repeat Yourself (DRY), Data Mapper Pattern, Separation of Concerns (SOC), Data Object Transfer (DTO)
-  ## In addition to using the concepts of previous challenges and good practices including design patterns, we are dealing with csv files.
+  # I've applied things like typescript, SOLID patterns, Don't Repeat Yourself (DRY), Data Mapper Pattern, Separation of Concerns (SOC), Data Object Transfer (DTO)
+  # In addition to this we are dealing with csv files.
 
 
 
@@ -18,4 +18,6 @@
 - [x] should be able to delete a transaction  ✅ 
 - [x] should be able to import transactions  ✅ 
  
- ![](https://recordit.co/j9BtkYBYzA)
+ ![](https://recordit.co/j9BtkYBYzA.gif)
+
+
